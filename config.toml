@@ -1,6 +1,6 @@
 baseURL = 'http://127.0.0.1'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Tanmay Dutta'
 
 theme = "hugo-serif"
 
@@ -40,18 +40,18 @@ theme = "hugo-serif"
     grey = "#5C5A5A"
 
   [params.seo]
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
-    meta_og_image = "https://www.zerostatic.io/theme/hugo-serif/hugo-serif-screenshot.png"
+    meta_twitter_site = "@hermanceaser"
+    meta_twitter_creator = "@hermanceaser"
+    meta_og_image = "https://github.com/HermanCeaser"
 
   [params.services]
-    summary_truncate = 120 # How many characters to include in the summary of the services before truncating
+    summary_truncate = 200 # How many characters to include in the summary of the services before truncating
 
   [params.team]
     summary_large_truncate = 120 # How many characters to include in the summary of the team bios (large layout) before truncating
 
   [params.footer]
-    copyright_text = 'Free Hugo theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
+    copyright_text = 'Tanmay Duta <a class="zerostatic" href="#">www.tanmaydutta.guru</a>'
 
 [menu]
   # Main Menu
@@ -60,10 +60,10 @@ theme = "hugo-serif"
     url = "/services/"
     weight = 1
 
-  [[menu.main]]
-    name = "Team"
-    url = "/team/"
-    weight = 2
+  # [[menu.main]]
+  #   name = "Team"
+  #   url = "/team/"
+  #   weight = 2
 
   [[menu.main]]
     name = "About"
