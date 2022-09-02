@@ -3,7 +3,7 @@ title: 'About'
 date: 2018-02-22T17:01:34+07:00
 ---
 
-Tanmay dutta is a Healer, a Spell Caster and Psychic, Spiritual Healer, who will help you in all avenues and Aspects of your problems. There are many broken relationships today. Many people are unhappy because they are not able to achieve their dream in a romantic relationship.
+African Oracle is a Healer, a Spell Caster and Psychic, Spiritual Healer, who will help you in all avenues and Aspects of your problems. There are many broken relationships today. Many people are unhappy because they are not able to achieve their dream in a romantic relationship.
 
 ## What I do Best
 Are you Searching Love Spells or Charms, or Spiritual Guidance and growth?. No need to go to different spell casters as I will Cast powerful Spiritual Spells for you.
