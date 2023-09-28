@@ -1,0 +1,52 @@
+.topbar-area {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #00000021;
+    background-color: transparent;
+}
+
+.topbar-area .row {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(var(--bs-gutter-y) * -1);
+    margin-right: calc(var(--bs-gutter-x) * -.5);
+    margin-left: calc(var(--bs-gutter-x) * -.5);
+}
+
+.topbar-list {
+    padding: 0;
+    margin-bottom: 0;
+}
+
+.topbar-list-right {
+    text-align: right;
+}
+
+a {
+    text-decoration: none;
+    transition: all .3s ease-in-out .1s;
+    outline: 0 !important;
+    color: var(--main-color, #424155);
+}
+
+a:hover {
+    color: #ff3f8c;
+}
+
+@media only screen and (max-width: 1199px) {
+    .topbar-area {
+        background-color: #fff;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .topbar-list {
+        text-align: center;
+    }
+
+    .topbar-list-right {
+        text-align: center;
+    }
+}

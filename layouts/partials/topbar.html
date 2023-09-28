@@ -1,0 +1,24 @@
+<div class="topbar-area">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-6 col-md-6">
+                <div class="topbar-list">
+                    <div class="social">
+                        {{ range .Site.Data.tel }}
+                        <a href="{{ .link }}" target="blank">&nbsp;<img src="{{ .image | relURL }}" title="{{ .text }}"
+                                alt="{{ .text }}" />{{ .text }}</a>
+                        {{ end }}
+                    </div>
+                </div>
+
+            </div>
+            <div class="col-lg-6">
+                <div class="topbar-list-right">
+                    {{ with .Site.Params.footer.copyright_text }}
+                    <div class="copyright">{{ . | safeHTML }}</div>
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
