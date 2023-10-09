@@ -51,7 +51,7 @@ theme = "hugo-serif"
     summary_large_truncate = 120 # How many characters to include in the summary of the team bios (large layout) before truncating
 
   [params.footer]
-    copyright_text = 'African Oracle  <a class="zerostatic" href="#">www.africanoracledoctor.com</a>'
+    copyright_text = '<p>Copyright © African Oracle Doctor.</p>'
 
 [menu]
   # Main Menu
@@ -66,7 +66,7 @@ theme = "hugo-serif"
     weight = 3
 
   [[menu.main]]
-    name = "Contact"
+    name = "Contact Us"
     url = "/contact/"
     weight = 4
 

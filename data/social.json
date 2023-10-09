@@ -8,5 +8,31 @@
         "name": "info@africanoracledoctor.com",
         "link": "mailto:info@africanoracledoctor.com",
         "image": "images/social/icons8-mail-24-white.png"
+    },
+    {
+        "name": "Tiktok",
+        "link": "https://www.tiktok.com/@africanoracledoctor",
+        "image": "images/social/icons8-tiktok.svg"
+
+    },
+    {
+        "name": "Instagram",
+        "link": "https://www.instagram.com/africanoracledoctor",
+        "image": "images/social/icons8-instagram.svg"
+
+    },
+    {
+        "name": "Facebook",
+        "link": "https://www.facebook.com/profile.php?id=61551910168264&mibextid=ZbWKwL",
+        "image": "images/social/icons8-facebook.svg"
+
+    },
+    {
+        "name": "Linkedin",
+        "link": "https://www.linkedin.com/in/african-oracle-doctor/",
+        "image": "images/social/icons8-linkedin.svg"
+
     }
+    
+
 ]
