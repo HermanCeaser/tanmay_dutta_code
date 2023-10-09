@@ -102,6 +102,7 @@
     let status = document.getElementById("contactForm-status");
     let statusContainer = status.parentNode;
     let formData = new FormData(event.target);
+    console.log(new URLSearchParams(formData).toString());
     fetch("/", {
       method: "POST",
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
